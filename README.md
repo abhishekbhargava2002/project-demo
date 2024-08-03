@@ -1,4 +1,4 @@
 # project-demo
 This is my Git Repository.
-<br> <hr>
+<br> 
 Author - Abhishek Bhargava
